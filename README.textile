@@ -1,4 +1,4 @@
-h1. Elasticsearch
+h1. Elasticsearch test
 
 h2. A Distributed RESTful Search Engine
 
