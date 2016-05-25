@@ -1,4 +1,4 @@
-h1. Elasticsearch test 2
+h1. Elasticsearch test release/* slack
 
 h2. A Distributed RESTful Search Engine
 
